@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FinalTestApp</string>
+    <string name="title_activity_log_in">LogInActivity</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+    <string name="title_activity_onboarding">OnboardingActivity</string>
+</resources>
